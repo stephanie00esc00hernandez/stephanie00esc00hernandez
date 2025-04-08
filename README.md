@@ -1,10 +1,13 @@
 ## Hi, Welcome 👋
-![Untitled design](https://github.com/user-attachments/assets/8fbce3af-5dc3-433f-9ad6-7c0a4ef45053)
-<p>
- <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100; align-items: center;">
-<br><br>
- 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/stepanie00esc00hernandez/count.svg" />
 </p>
+
+![Untitled design (1)](https://github.com/user-attachments/assets/9bf207ed-53b1-4a61-9330-c90ef830a76d)
+
+
 
 
 
@@ -49,6 +52,11 @@
 [![](https://visitcount.itsvg.in/api?id=stephanie00esc00hernandez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="300">
 <br><br>
-
+</p>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="300">
+<br><br> 
+</p>
